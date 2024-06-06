@@ -2,6 +2,10 @@
 
 Note: On startup, Blood Donation Directory created in Documents Folder.
 
+If you want more cities, add cities in cities.properties file located at resources folder.
+
+If you want more aadhar number, add aadhar number in aadhar.properties file located at resources folder.
+
 USER APPLICATION
 	
 Login or Register:
